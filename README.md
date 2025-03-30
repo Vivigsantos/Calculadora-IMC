@@ -28,8 +28,6 @@ Como Executar o Projeto
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/calculadora-imc.git
-
 Acesse a pasta do projeto:
 
 cd calculadora-imc
